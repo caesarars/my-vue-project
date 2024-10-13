@@ -18,7 +18,9 @@ git clone https://github.com/caesarars/my-vue-project.git
 
 ### 2. Docker
 docker build -t my-vue-project .
+
 docker-compose up
+
 
 akan ada di PORT : 
 http://localhost:8090
